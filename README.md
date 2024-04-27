@@ -1,6 +1,6 @@
 # Repositorio de Desirée
 
-![Imagen de Portada](IMG_6401.JPG)
+![Imagen de Portada](gatito.jpg)
 
 
 ## Descripción
