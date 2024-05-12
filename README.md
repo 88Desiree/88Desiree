@@ -10,7 +10,7 @@ En este repositorio realizo las operaciones indicadas en el reto 2 de la asignat
 ## Proceso
 
 >*1. Inicio la creación del repositorio para el reto.
->2. Realizo un commit con la carpeta src del proyecto.
+2. Realizo un commit con la carpeta src del proyecto.
 3. Creo un Branch llamado desarrolloPersona para continuar con el reto.
 4. Realizo un pull desde el repositorio remoto a mi repositorio local.
 5. Realizo un commit para actualizar la rama desarrolloPersona con una nueva clase denominada "retoclasegit" y posteriormente realizo un push para enviar los cambios al repositorio remoto.
